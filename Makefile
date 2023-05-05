@@ -2,7 +2,6 @@
 # https://opensource.com/article/18/8/what-how-makefile
 
 CFLAGS=-Wall -g
-
 .PHONY = all clean
 
 CC = cc
